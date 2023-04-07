@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vishal24102002
-- 👀 I’m interested in knowledge
-- 🌱 I’m currently learning computer science
+- 👋 Hi, I’m Vishal sharma
+- 👀 I want to gain more knowledge and learn new things
+- 🌱 I’m currently pursuing my BTech degree
 - 💞️ I’m looking to collaborate on for future growth
-- 📫 How to reach me email
+- 📫 How to reach me email-vishalsharma659615@gmail.com
 
 <!---
 Vishal24102002/Vishal24102002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
