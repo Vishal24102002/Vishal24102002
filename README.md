@@ -1,4 +1,4 @@
-<b><h2>👋 Hi,</h2></b>
+<b>👋 Hi there ,</b>
 <b><h3> Bio </h3></b>
 I’m Vishal Sharma currently pursuing my B-Tech <br>
 <b><h3> Introduction </h3></b> <br>
