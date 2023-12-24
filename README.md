@@ -1,7 +1,7 @@
 <b>👋 Hi there ,</b>
 <b><h3> Bio </h3></b>
 I’m Vishal Sharma currently pursuing my B-Tech <br>
-<b><h3> Introduction </h3></b> <br>
+<b><h3> Introduction </h3></b> 
 -> ⚙️ I use daily : <code>.py</code>, <code>.html</code>, <code>.java</code> <br>
 -> 👀 I want to gain more knowledge and learn new things <br>
 -> 🌱 I’m currently pursuing my BTech degree <br>
