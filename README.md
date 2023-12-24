@@ -1,5 +1,5 @@
 <h1> Introduction </h1>
-- 👋 Hi, I’m Vishal sharma</n>
+- 👋 Hi, I’m Vishal sharma \n
 - 👀 I want to gain more knowledge and learn new things
 - 🌱 I’m currently pursuing my BTech degree
 - 💞️ I’m looking to collaborate on for future growth
