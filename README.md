@@ -1,7 +1,7 @@
 <b><h3> Bio </h3></b>
 👋 Hi, I’m Vishal Sharma currently pursuing my B-Tech <br>
 <b><h3> Introduction </h3></b> <br>
--> ⚙️ i use daily : <script>.py</script>,<script>.html</script>,<script>.java</script> <br>
+-> ⚙️ I use daily : <script>.py</script>,<script>.html</script>,<script>.java</script> <br>
 -> 👀 I want to gain more knowledge and learn new things <br>
 -> 🌱 I’m currently pursuing my BTech degree <br>
 -> 💞️ I’m looking to collaborate on for future growth <br>
