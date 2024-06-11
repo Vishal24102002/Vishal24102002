@@ -12,7 +12,7 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
 <ul>
   <li>
     <a href="">
-    Aravality 
+    Aravality (android app)
     </a>
   </li>
   <li>
