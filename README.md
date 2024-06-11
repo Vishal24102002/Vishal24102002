@@ -36,9 +36,9 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
 <div style="display:flex;flex-direction: column;">
   
   <p align="center"> 
-  <a href=""><img style="height:120px;" src="image/link.png"></a>
+  <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/"><img style="height:120px;" src="image/link.png"></a>
    <a href=""><img style="height:120px;" src="image/resu.jpeg"></a>
-  <a href=""><img style="height:120px;" src="image/hack.jpeg"></a>
+  <a href="https://www.hackerrank.com/profile/vishalsharma6591"><img style="height:120px;" src="image/hack.jpeg"></a>
   </p>
 </div> 
 
