@@ -32,7 +32,10 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
   </li>
 </ul>
 
-<div style="display:flex;">
+<!--<div style="display:flex;flex-direction: column;">
+   <div><img src="">hello</div>
+   <img src=""> 
+</div> -->
 
 <footer>
   <b>Hope you are good and Doing your best </b>
