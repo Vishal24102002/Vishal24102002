@@ -27,8 +27,6 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
   </li>
 </ul>
 
-
-<!---
-Vishal24102002/Vishal24102002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<footer>
+  <b>Hope you are good and Doing your best </b>
+</footer>
