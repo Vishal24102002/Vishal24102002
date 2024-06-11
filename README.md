@@ -1,8 +1,8 @@
 <b>👋 Hi there ,</b>
-<b><h2> Bio </h2></b>
+<h2> Bio </h2>
 I’m Vishal Sharma currently pursuing my B-Tech <br>
 
-<h2>Projects</h2>
+<h2>Best-Projects</h2>
 <ul>
   <li>
     <a href="">
