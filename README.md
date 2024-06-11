@@ -32,10 +32,15 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
   </li>
 </ul>
 
-<!--<div style="display:flex;flex-direction: column;">
-   <div><img src="">hello</div>
-   <img src=""> 
-</div> -->
+<h2 align="center">Quick links</h2>
+<div style="display:flex;flex-direction: column;">
+  
+  <p align="center"> 
+  <a href=""><img style="height:120px;" src="image/link.png"></a>
+   <a href=""><img style="height:120px;" src="image/resu.jpeg"></a>
+  <a href=""><img style="height:120px;" src="image/hack.jpeg"></a>
+  </p>
+</div> 
 
 <footer>
   <b>Hope you are good and Doing your best </b>
