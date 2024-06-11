@@ -32,6 +32,8 @@ I’m Vishal Sharma currently pursuing my B-Tech <br>
   </li>
 </ul>
 
+<div style="display:flex;">
+
 <footer>
   <b>Hope you are good and Doing your best </b>
 </footer>
