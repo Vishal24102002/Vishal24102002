@@ -10,7 +10,7 @@
 -> 💞️ I’m looking to collaborate on for future growth <br>
 -> 📫 How to reach E-mail,pypi,linkedin,tweeter  <br>
 
-<h2>Best-Projects</h2>
+<h2>### Achievements and Projects</h2>
 <ul>
   <li>
     <a href="">
@@ -33,6 +33,21 @@
     </a>
   </li>
 </ul>
+
+<h2>Key Skills</h2>
+
+- **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.
+- **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.
+- **Database Management**: Experienced with MySQL for managing and structuring data efficiently.
+- **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.
+
+### Interests
+
+In my free time, I engage in activities that enhance my technical skills and keep me creatively inspired. I stay updated with the latest advancements in technology and frequently experiment with new programming languages and frameworks. Actively contributing to open-source projects helps me improve my coding skills and collaborate with a global community of developers. Participating in coding challenges on platforms like LeetCode and HackerRank ![HackerRank](https://img.icons8.com/nolan/64/hackerrank.png) hones my problem-solving abilities and keeps my algorithms knowledge sharp. I enjoy attending tech meetups and conferences to network with industry professionals and learn about emerging technologies. Additionally, I continuously work on personal projects to apply new concepts and improve my practical experience. I regularly read books and articles on software development, which helps me stay informed about best practices and industry trends.
+
+### Contact Me
+
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at [your email address] or connect with me on [LinkedIn/GitHub].
 
 <h2 align="center">Quick links</h2>
 <div style="display:flex;flex-direction: column;">
