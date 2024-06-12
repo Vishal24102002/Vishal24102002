@@ -49,7 +49,7 @@ In my free time, I engage in activities that enhance my technical skills and kee
 
 <h2>Contact Me</h2>
 
-I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at [your email address] or connect with me on [LinkedIn/GitHub].
+I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
 
 <h2 align="center">Quick links</h2>
 <div style="display:flex;flex-direction: column;">
