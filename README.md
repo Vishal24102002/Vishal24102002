@@ -38,7 +38,7 @@
 <div style="display:flex;flex-direction: column;">
   
   <p align="center"> 
-  <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/" class="fa-brands fa-linkedin"><i class="fa-brands fa-linkedin"></i></a>
+  <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/" class="fa-brands fa-linkedin"> </a>
    <a href=""><img style="height:120px;" src="image/resu.jpeg"></a>
   <a href="https://www.hackerrank.com/profile/vishalsharma6591"><img style="height:120px;" src="image/hack.jpeg"></a>
   </p>
