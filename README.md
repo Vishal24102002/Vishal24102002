@@ -10,7 +10,13 @@
 -> 💞️ I’m looking to collaborate on for future growth <br>
 -> 📫 How to reach E-mail,pypi,linkedin,tweeter  <br>
 
-<h2>Achievements and Projects</h2>
+<h2>Achievements</h2>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetswami" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002" alt="vishal24102002" /></a> </p>
+
+<h2>Projects</h2>
 <ul>
   <li>
     <a href="">
@@ -40,6 +46,14 @@
 - **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.
 - **Database Management**: Experienced with MySQL for managing and structuring data efficiently.
 - **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.
+
+<h2>Stats</h2>
+   <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="vishal24102002" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal24102002&show_icons=true&locale=en" alt="vishal24102002" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
+
 
 <h2>Interests</h2>
 
