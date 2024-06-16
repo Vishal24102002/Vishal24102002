@@ -40,6 +40,11 @@
   </li>
 </ul>
 
+<h2>🔝 Top Contributed Repo</h2>
+<p align="center">
+![](https://github-contributor-stats.vercel.app/api?username=vishal24102002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
+
 <h2>Key Skills</h2>
 
 - **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.
