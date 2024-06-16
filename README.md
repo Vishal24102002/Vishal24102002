@@ -16,7 +16,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002" alt="vishal24102002" /></a> </p>
 
-<h2>Projects</h2>
+<h2>Projects {Best}</h2>
 <ul>
   <li>
     <a href="">
