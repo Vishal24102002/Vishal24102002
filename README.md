@@ -1,5 +1,5 @@
 <b>👋 Hi there ,</b>
-<h2>Intro</h2>
+<h2>About</h2>
 <p>
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
