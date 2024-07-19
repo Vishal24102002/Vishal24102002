@@ -86,6 +86,6 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
 </footer>
 
 
-<p align="center">
+<p align="center" width='100%'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
