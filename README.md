@@ -6,12 +6,6 @@
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
 
-<b><h3> Introduction </h3></b> 
--> ⚙️ I use daily : <code>.py</code>, <code>.html</code>, <code>.java</code>,<code>.dart</code> <br>
--> 👀 I want to gain more knowledge and learn new things <br>
--> 💞️ I’m looking to collaborate on for future growth <br>
--> 📫 How to reach E-mail,pypi,linkedin,tweeter  <br>
-
 <h2>Achievements</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetswami" /> </p>
