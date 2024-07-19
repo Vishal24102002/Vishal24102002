@@ -81,10 +81,6 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
   </p>
 </div> 
 
-<footer>
-  <b>Hope you are good and Doing your best </b>
-</footer>
-
 
 <p align="center" width='100%'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100&height=100&section=footer"/>
