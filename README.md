@@ -1,4 +1,4 @@
-<img src="image/2000x500px.gif"
+<img src="image/2000x500px.gif">
 
 <b>👋 Hi there ,</b>
 <h2>About</h2>
