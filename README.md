@@ -18,12 +18,12 @@
 <h2>Projects {Best}</h2>
 <ul>
   <li>
-    <a href="">
+    <a href="https://github.com/Vishal24102002/Aravality_App/blob/main/README.md">
     Aravality (android app)
     </a>
   </li>
   <li>
-    <a href="">
+    <a href="https://github.com/Vishal24102002/DBMS_GUI/blob/main/README.md">
     DBMS (Database management system) GUI
     </a>
   </li>
