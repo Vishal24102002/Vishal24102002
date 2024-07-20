@@ -58,7 +58,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
 
+<center>
 ![Snake animation](https://github.com/vishal24102002/vishal24102002/blob/output/github-contribution-grid-snake.svg)
+</center>
 
 <h2>Interests</h2>
 
