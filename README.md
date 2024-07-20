@@ -28,13 +28,18 @@
     </a>
   </li>
   <li>
-    <a href="">
+    <a href="https://github.com/Vishal24102002/V.A.C/blob/main/README.md">
       V.A.C.
     </a>
   </li>
   <li>
-    <a href="">
+    <a href="https://github.com/Vishal24102002/TimeTable_generator_A.I./blob/main/README.md">
       Timetable-Generator (API)
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Vishal24102002/SmartLib/blob/main/README.md">
+      Smart_library (on-Progress)
     </a>
   </li>
 </ul>
