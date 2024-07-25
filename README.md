@@ -12,7 +12,9 @@
 
 
 <center>
+  <p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</p>
 </center>
 
 ### GitHub Trophies
