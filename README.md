@@ -53,27 +53,22 @@
 </p>
 
 <h2>Key Skills</h2>
-<div style="display: flex; align-items: baseline;">
-  <div>    
-    - **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.
-    - **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.
-    - **Database Management**: Experienced with MySQL for managing and structuring data efficiently.
-    - **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.
-  </div>
-  <div style="margin-left: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" />
-  </div>
-</div>
+
+- **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.
+- **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.
+- **Database Management**: Experienced with MySQL for managing and structuring data efficiently.
+- **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.
+  <p align='center'>
+    <img src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
+  </p>
+    
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" /> -->
 
 <h2>Stats</h2>
    
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal24102002&show_icons=true&locale=en" alt="vishal24102002" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
-
-<center>
-![Snake animation](https://github.com/vishal24102002/vishal24102002/blob/output/github-contribution-grid-snake.svg)
-</center>
 
 <h2>Interests</h2>
 
@@ -88,11 +83,15 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
 <h2 align="center">Quick links</h2>
 <div style="display:flex;flex-direction: column;">
   <p align="center"> 
-  <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/">
-    <img style="height:120px;" src="image/link.png">
-  </a>
-   <a href=""><img style="height:120px;" src="image/resu.jpeg"></a>
-  <a href="https://www.hackerrank.com/profile/vishalsharma6591"><img style="height:120px;" src="image/hack.jpeg"></a>
+    <a href="https://www.linkedin.com/in/vishal-sharma-57018323b/">
+      <img style="height:30px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="">
+      <img style="height:30px;" src="image/resu.jpeg">
+    </a>
+    <a href="https://www.hackerrank.com/profile/vishalsharma6591">
+      <img style="height:30px;" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+    </a>
   </p>
 </div> 
 
