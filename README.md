@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002" alt="vishal24102002" /></a> </p>
