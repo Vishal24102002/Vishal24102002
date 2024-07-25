@@ -76,6 +76,11 @@
 In my free time, I engage in activities that enhance my technical skills and keep me creatively inspired. I stay updated with the latest advancements in technology and frequently experiment with new programming languages and frameworks. Actively contributing to open-source projects helps me improve my coding skills and collaborate with a global community of developers. Participating in coding challenges on platforms like LeetCode and HackerRank! hones my problem-solving abilities and keeps my algorithms knowledge sharp. I enjoy attending tech meetups and conferences to network with industry professionals and learn about emerging technologies. Additionally, I continuously work on personal projects to apply new concepts and improve my practical experience. I regularly read books and articles on software development, which helps me stay informed about best practices and industry trends.
 </p>
 
+<i class="fas fa-bicycle" style="color: #007bff;"></i> Riding bicycles  
+<i class="fas fa-laptop-code" style="color: #28a745;"></i> Coding  
+<i class="fas fa-microphone-alt" style="color: #dc3545;"></i> Singing
+
+
 <h2>Contact Me</h2>
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
@@ -94,6 +99,8 @@ I'm always excited to collaborate on new projects or discuss innovative ideas. F
     </a>
   </p>
 </div> 
+
+![Green Screen Demo](./images/green-screen-demo.gif)
 
 
 <p align="center" width='100%'>
