@@ -18,8 +18,6 @@
 ### GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002" alt="vishal24102002" /></a> </p>
 
-<iframe src="https://hackerrank-badge.herokuapp.com/vishal24102002?s=1" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
-
 <h2>Projects {Best}</h2>
 <ul>
   <li>
