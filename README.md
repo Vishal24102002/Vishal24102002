@@ -66,7 +66,6 @@
 
 <h2>Stats</h2>
    
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal24102002&show_icons=true&locale=en" alt="vishal24102002" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
 
