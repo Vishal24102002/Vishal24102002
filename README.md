@@ -54,20 +54,21 @@
 
 <h2>Key Skills</h2>
 
-- **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.
-- **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.
-- **Database Management**: Experienced with MySQL for managing and structuring data efficiently.
-- **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.
-  <p align='center'>
-    <img src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
-  </p>
-    
+
+<img align="right" src="https://skillicons.dev/icons?i=py,flask,mysql,html,css,java,flutter,c&perline=4"/>
+- **Programming Languages**: Proficient in Python, with basic knowledge of Java and C.<br>
+- **Web Development**: Skilled in HTML and CSS for creating responsive and dynamic websites.<br>
+- **Database Management**: Experienced with MySQL for managing and structuring data efficiently.<br>
+- **Mobile Development**: Proficient in Flutter for building cross-platform mobile applications.<br>
+<br clear="right"/>
+  
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" /> -->
 
 <h2> Stats</h2>
-   
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=900px></p>
 
 <h2>Interests</h2>
 
