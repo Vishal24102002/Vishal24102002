@@ -6,7 +6,7 @@
   Hello! I'm Vishal sharma, a passionate software developer with a strong foundation in various programming languages and technologies. With skills in Python, MySQL, Flutter, HTML, CSS, and basic knowledge of Java and C, I enjoy building innovative and efficient solutions.
 </p>
 
-<h2>Achievements</h2>
+<h2> Achievements</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vishal24102002&label=Profile%20views&color=0e75b6&style=flat" alt="vishal24102002" /> </p>
 
@@ -15,8 +15,8 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
 </p>
 
-### GitHub Trophies
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vishal24102002" alt="vishal24102002" /></a> </p>
+### 🏆 GitHub Trophies 🏆
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=vishal24102002&theme=onedark&no-bg=true&margin-w=15&no-frame=true&margin-h=55" alt="vishal24102002" /></p>
 
 <h2>Projects {Best}</h2>
 <ul>
@@ -64,7 +64,7 @@
     
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal24102002&show_icons=true&locale=en&layout=compact" alt="Description of image" width="200" /> -->
 
-<h2>Stats</h2>
+<h2> Stats</h2>
    
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal24102002&" alt="vishal24102002" /></p>
@@ -80,7 +80,7 @@ In my free time, I engage in activities that enhance my technical skills and kee
 <i class="fas fa-microphone-alt" style="color: #dc3545;"></i> Singing
 
 
-<h2>Contact Me</h2>
+<h2>📞 Contact Me 📞</h2>
 
 I'm always excited to collaborate on new projects or discuss innovative ideas. Feel free to reach out to me at Vishalsharma659615@gmail.com or connect with me on [LinkedIn/GitHub].
 
