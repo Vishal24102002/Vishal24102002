@@ -70,6 +70,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vishal24102002&theme=react-dark" width=900px></p>
 
+<h2>Posts</h2>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7226969569989476353" height="1193" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 <h2>Interests</h2>
 
 <p>
